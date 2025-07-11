@@ -5,5 +5,9 @@ Here lie all the ones that look a little too similar:
 
 ## Countries 
 ### Europe: 
+[[Czech Republic]] 
+[[Slovenia]]
 
-### Africa: 
+
+### Africa:
+
