@@ -22,7 +22,7 @@ Let's take a look at street signs:
 Word-based: 
 * Street names will look quite similar. The one street word that is shared is "avenida" so don't use that for help
 * easy ways to tell: 
-	* rúa - Spanish; rua - Portuguese
+	* rúa - Spanish (Galicia); rua - Portuguese
 	* camino - Spanish; caminho - Portuguese
 	* calzada - Spanish; calçada - Portuguese
 * *estrada* is shared, but only really used by Portuguese
