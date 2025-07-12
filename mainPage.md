@@ -7,6 +7,9 @@ Here lie all the ones that look a little too similar:
 ### Europe: 
 [[Czech Republic]] 
 [[Slovenia]]
+[[TheUltimateGeoGuessrGuide/countries/europe/Austria|Austria]]
+
+
 
 
 ### Africa:
