@@ -22,4 +22,7 @@ Here lie all the ones that look a little too similar:
 [[Brazil]] 
 
 ### Africa:
-
+[[South Africa]] 
+### Central Asia:
+ [[Kyrgyzstan]]
+[[Kazakhstan]]
