@@ -8,7 +8,7 @@
 
 Danish street names end in "vej.": Danish for street. Street signs most have blue background with white text. 
 
-Danish sign has 5 stripes. VERY UNIQUE: The 1st and 5th sign are merging with the triangle. Also, person looks like he has polio. Sweden & Norway (Almost all the time) have 4 stripes. 
+Danish sign has 5 stripes. VERY UNIQUE: The 1st and 5th sign are merging with the triangle. Also, person looks like he has ***polio***. Sweden & Norway (Almost all the time) have 4 stripes. 
 
 ![[dkCrossWalkSign.png]]
 

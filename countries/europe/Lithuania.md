@@ -1,12 +1,12 @@
 ### License Plate
 Standard EU license plate
 
-### Street Sign
+### Street Signs
 
 Street name in Lithuanian is Gatve. Streets often end in g. (Only exception is Riga)
-Places name generally end in ***al***
+Places name generally end in ***al*** (add example)
 
-Unique km sign. Refer [[balticKMSign.png]]
+Unique km sign. Refer [[balticKMSign.png]] 
 
 ### Bollards
 Unique bollards in Europe 

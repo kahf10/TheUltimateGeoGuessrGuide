@@ -3,14 +3,23 @@ Here lie all the ones that look a little too similar:
 [[Spain-Portugal]]
 
 
+
 ## Countries 
 ### Europe: 
+[[Austria]]
 [[Czech Republic]] 
+[[Denmark]]
+[[Estonia]]
+[[Iceland]]
+[[Latvia]]
+[[Lithuania]]
+[[Romania]]
+[[Spain]]
 [[Slovenia]]
-[[TheUltimateGeoGuessrGuide/countries/europe/Austria|Austria]]
 
 
-
+### South America:
+[[Brazil]] 
 
 ### Africa:
 
