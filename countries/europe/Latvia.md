@@ -7,7 +7,6 @@ Riga might have g. (Gatve) [[Lithuania#Street Signs]]
 
 
 
-
 Signs have the back of the arrow head at an angle compared to the other 2 baltic which have flat arrow heads. 
 ![[lvArrowHeadSign.png]]
 

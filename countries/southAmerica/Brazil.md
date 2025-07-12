@@ -23,7 +23,8 @@ Region guessing in Brazil:
 	* this is the Paraná Pine, in the southern region of Brazil  
 	  ![[brParPine.png]]![[brParPine2.png|400]]
 * Phone Numbers: 
-	* lets go even easier, every there are phone numbers all over Brazil 
+	* lets go even easier, there are phone numbers all over Brazil 
+	* ![[brPhone.png]]
 * States: 
 	* Some familiarity with the states and their codes helps drastically
 	  ![[brArea.png]]

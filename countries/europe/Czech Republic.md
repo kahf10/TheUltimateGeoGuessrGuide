@@ -4,7 +4,7 @@ Czech street names are often in red signs with white letters
 ![[czSign.png]]
 
 Crossing walk signs have stripes, but the pedestrian wears a hat 
-![[czCross.png]]
+![[czCrossWalkSign.png]]
 
 Most signs have a black cap over the post
 ![[czSigncap.png]]

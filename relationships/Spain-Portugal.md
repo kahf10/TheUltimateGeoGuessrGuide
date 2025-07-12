@@ -29,6 +29,6 @@ Word-based:
 * Spain exclusively uses *calle*
 
 Easy tells: 
-![[espCross.png| 200]] ![[ptCross.png|200]]
+![[espCrossWalkSIgns.png| 200]] ![[ptCrossWalkSign.png|200]]
 	Spain                                          Portugal 
 

@@ -16,12 +16,12 @@ Very unique direction signs. Low to the ground and hosted on pipes. Colorful (Re
 
 ![[dkDirectionSigns.png]]
 
-| Feature                  | **Danish**                            | **Swedish**                  | Quick GeoGuessr Tip                                            | ![[dkBentPipeSign.png]] |
-| ------------------------ | ------------------------------------- | ---------------------------- | -------------------------------------------------------------- | -------------------------------------------- |
-| **Unique extra letters** | **Æ, Ø, Å**                           | **Å, Ä, Ö**                  | Scan shop fronts for <br>Æ or Ø → Denmark; <br>Ä or Ö → Sweden |                                              |
-| **Letters NOT present**  | No **Ä**, **Ö**                       | No **Æ**, **Ø**              | Absence can be as useful as presence                           |                                              |
-| **Shared letter**        | Å (same shape/usage)                  | Å (same shape/usage)         | Doesn’t help distinguish—look for the others                   |                                              |
-| **Visual style clues**   | Æ (ligature AE) <br> Ø (O with slash) | Ä / Ö (O or A with two dots) | Slashed Ø vs. dotted Ö is the fastest giveaway                 |                                              |
+| Feature                  | **Danish**                            | **Swedish**                  | Norway | Quick GeoGuessr Tip                                            |
+| ------------------------ | ------------------------------------- | ---------------------------- | ------ | -------------------------------------------------------------- |
+| **Unique extra letters** | **Æ, Ø, Å**                           | **Å, Ä, Ö**                  |        | Scan shop fronts for <br>Æ or Ø → Denmark; <br>Ä or Ö → Sweden |
+| **Letters NOT present**  | No **Ä**, **Ö**                       | No **Æ**, **Ø**              |        | Absence can be as useful as presence                           |
+| **Shared letter**        | Å (same shape/usage)                  | Å (same shape/usage)         |        | Doesn’t help distinguish—look for the others                   |
+| **Visual style clues**   | Æ (ligature AE) <br> Ø (O with slash) | Ä / Ö (O or A with two dots) |        | Slashed Ø vs. dotted Ö is the fastest giveaway                 |
 Pipe bent around sign (Unique to denmark)
 
 ![[dkBentPipeSign.png]]
