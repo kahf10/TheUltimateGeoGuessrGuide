@@ -18,11 +18,13 @@ Here lie all the ones that look a little too similar:
 [[Slovenia]]
 
 
+### Central America: 
+[[Panama]]
 ### South America:
 [[Brazil]] 
 
-### Africa:
-[[South Africa]] 
+### Oceania:
+[[New Zealand]] 
 ### Central Asia:
  [[Kyrgyzstan]]
 [[Kazakhstan]]
