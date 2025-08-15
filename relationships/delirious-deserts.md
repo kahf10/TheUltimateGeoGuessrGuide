@@ -1,7 +1,7 @@
 Some of these might not be famous, or even officially classified as deserts, but i think its important to be able to tell apart this devilish creatures
 
 ### Las Tabernas, Spain
-![[geoguessrBuddies/pictures/topography/esTabernas.png]]
+![[esTabernas1.png]]
 
 
 ### **The Atacama desert** 

@@ -1,5 +1,5 @@
-Crosswalk has a belt and arms are cROUNDED like cROATIA
-
+Crosswalk has a belt and arms are rounded like Croatia and 5 stripes
+![[crCrossWalk.png]]
 ### Architecture: 
 split house with one part brick, one part something else 
 Also quite a bit of brick and wood 
