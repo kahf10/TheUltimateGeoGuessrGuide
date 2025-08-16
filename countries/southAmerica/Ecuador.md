@@ -8,4 +8,4 @@ Rare Ecuadorian Ladder Pole (Otherwise, it commonly has the rounded white pole)
 ![[ecLadderPole.png]]
 
 Double guard rails + General Black on Yellow Chevrons
-![[Screenshot 2025-08-15 at 7.54.44 PM.png]]
+![[ecGuardRail.png]]
